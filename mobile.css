@@ -50,8 +50,13 @@
 .contact-me{
     text-align: center;
 }
+.box{
+    display: block;
+    width: 100%;
+}
 .card{
-    width: 90%;
+    display: block;
+    width: auto;
 }
 
 }
